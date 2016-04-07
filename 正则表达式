@@ -2,4 +2,4 @@
 分组
 email=r".\w{3}@\w+(\.com|\.cn)"  
 优先返回分组的内容
-
+r=r"hello src=(.+) yes"  re.findall(r,"")只返回（）内的内容；
