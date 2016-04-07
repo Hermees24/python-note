@@ -1,0 +1,20 @@
+README文件后缀名为md。md是markdown的缩写，markdown是一种编辑博客的语言。格式如下：
+![](img_url)
+即 叹号! + 方括号[ ] + 括号( ) 其中叹号里是图片的URL。
+如果不加叹号! ,就会变成普通文本baidu了。
+在方括号里可以加入一些 标识性的信息，比如
+![ABC](http://www.baidu.com/img/bdlogo.gif) 
+
+github 图片链接格式：
+
+(http://github.com/yourname/your-repository/raw/master/images-folder/xxx.png)
+
+要自己设定的：yourname, your-repository, your-folder, xxx.png。
+
+    yourname            --- 你的帐号
+    your-respository --- 你的 project 名
+    images-folder      --- 你存放图片的文件夹，如果是直接放在 project 的项目根目录的話，就可以省略這個
+    xxx.png                --- 你的图片名
+
+(C:\Users\MA\Documents\GitHub\python-note\zhengze.png)
+![zhengze](http://github.com/Hermees24/python-note/zhengze.png)
