@@ -26,6 +26,7 @@ markdown文件添加图片：
            ![test](photo/test.jpg "namenew")
            
         <3>![test](https://github.com/Hermees24/python-note/blob/master/photo/test.jpg "namenew") 正确
+        没使用Raw的地址
 
 
 
