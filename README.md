@@ -6,4 +6,4 @@ Hermees
 ![zhengze](zhengze.png)
 //显示图片样式，但打不开文件
 
-https://github.com/smshen/MarkdownPhotos/blob/master/Res/test.jpg
+![image](https://github.com/smshen/MarkdownPhotos/blob/master/Res/test.jpg)
