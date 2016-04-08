@@ -8,4 +8,6 @@ r=r"hello src=(.+) yes"  re.findall(r,"")只返回（）内的内容；
 多行输入： r=r""" 
               ...  
               
-![正则](https://raw.githubusercontent.com/Hermees24/python-note/master/zhengze.png)
+!a[正则](https://raw.githubusercontent.com/Hermees24/python-note/master/zhengze.png)
+
+![zheng](https://github.com/Hermees24/python-note/blob/master/zhengze.png)
